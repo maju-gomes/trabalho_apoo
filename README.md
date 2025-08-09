@@ -1,2 +1,1 @@
-# trabalho_apoo
-Projeto semestral da disciplina de Análise e Projeto Orientados a Objetos
+Este é um trabalho da disciplina de Análise e Projeto Orientados a Objetos, no qual modelaremos um software cujo objetivo é reciclar itens que seriam descartados, bem como doá-los a quem precisa: pessoas jurídicas ou físicas.
