@@ -127,4 +127,3 @@
 - O usuário visualiza informações atualizadas dos pontos de entrega e pode planejar a entrega ou retirada da doação.
 
 ---
-
