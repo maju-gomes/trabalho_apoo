@@ -42,6 +42,7 @@
 
 ---
 
+
 # CDU 2: Registrar Doação
 
 ---
@@ -89,6 +90,7 @@
 2. O ciclo da doação é monitorado até a entrega final ao recebedor.
 
 ---
+
 
 # CDU 3: Visualizar Pontos
 
