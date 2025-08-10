@@ -1,5 +1,8 @@
 # ♻ Reciclagem Solidária
 
+Documentação do projeto desenvolvido como atividade da disciplina de Análise e Projeto Orientada a Objetos, no Curso Técnico Integrado em Informática para Internet – IFRN
+Campus Natal-Central.
+
 ## Objetivo do Produto
 Evitar o descarte incorreto de produtos não biodegradáveis e reaproveitar seu material para produzir outros produtos para que possam ser reutilizados por pessoas ou comunidades/instituições carentes.
 
@@ -29,13 +32,22 @@ Pessoas que querem ser mais sustentáveis e ajudar pessoas carentes, além de em
 
 Para mais detalhes, acesse [casos-de-uso.md](casos-de-uso.md).
 
-- ![diagrama_casos_de_uso](imagens/diagrama_casos_de_uso.png)
+![diagrama_casos_de_uso](imagens/diagrama_casos_de_uso.png)
 ---
 
 # Modelo Conceitual
+- O modelo conceitual representa as classes de análise do sistema, com seus principais atributos e relacionamentos.
+
+![Link para o Diagrama de classes de Análise](imagens/diagrama_classe.png)
+
+As descrições das classes estão disponíveis no arquivo [modelo-conceitual.md](modelo-conceitual.md).
 ---
 
 # Tecnologias Utilizadas
+- Documentação escrita em Markdown
+- Diagramas elaborados com o Astah
+- Repositório hospedado no GitHub
+---
 
 # Equipe
  Integrante | Matrícula |
