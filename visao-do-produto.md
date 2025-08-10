@@ -3,14 +3,14 @@
 ## Objetivo do Produto
 Evitar o descarte incorreto de produtos não biodegradáveis e reaproveitar seu material para produzir outros produtos para que possam ser reutilizados por pessoas ou comunidades/instituições carentes.
 
+## Público-Alvo
+Pessoas que querem ser mais sustentáveis e ajudar pessoas carentes, além de empresas que já trabalham no ramo de reciclagem e distribuição.
+
 ## Principais Funcionalidades
 - **Doador:** cadastra o produto que deseja doar e visualiza os pontos de coleta.  
 - **Empresa coletadora:** visualiza os tipos de doações disponíveis nos pontos de coleta.  
 - **Empresa distribuidora:** verifica a demanda de pedidos e os produtos disponíveis para doação.
 - **Instituições/pessoas carentes:** solicitam produtos dos quais estão precisando.
-
-## Público-Alvo
-Pessoas que querem ser mais sustentáveis e ajudar pessoas carentes, além de empresas que já trabalham no ramo de reciclagem e distribuição.
 
 ## Restrições e Premissas
 - O sistema será desenvolvido para acesso via web;  
@@ -27,10 +27,9 @@ Pessoas que querem ser mais sustentáveis e ajudar pessoas carentes, além de em
 2. Registrar doação de produto(s)
 3. Visualizar pontos de entrega/retirada de produtos
 
-Para mais detalhes, acesse o arquivo casos-se-uso.md através do link abaixo:
+Para mais detalhes, acesse [casos-de-uso.md](casos-de-uso.md).
 
-- /workspaces/trabalho_apoo/casos-de-uso.md
-
+- ![diagrama_casos_de_uso](imagens/diagrama_casos_de_uso.png)
 ---
 
 # Modelo Conceitual
