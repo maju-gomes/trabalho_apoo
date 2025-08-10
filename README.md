@@ -1,15 +1,15 @@
 # ♻ Reciclagem Solidária
 
 ## Descrição breve do sistema
-O sistema Reciclagem Solidária visa ajudar não só o meio ambiente mas também pessoas ou comunidades carentes através de coleta e reciclagem e entrega dos produtos, processos que são intermediados pelo sistema. 
+- O sistema Reciclagem Solidária visa ajudar não só o meio ambiente mas também pessoas ou comunidades carentes através de coleta e reciclagem e entrega dos produtos, processos que são intermediados pelo sistema. 
 ---
 
 ## Autores
-Kaylane Yanomani, Ludmylla da Silva, Maria Júlia, Ricardo Xavier
+- Kaylane Yanomani, Ludmylla da Silva, Maria Júlia, Ricardo Xavier
 ---
 
 ## Link para estudo do caso base
-https://brasilescola.uol.com.br/biologia/reciclagem.htm
+- https://brasilescola.uol.com.br/biologia/reciclagem.htm
 ---
 
 # Intruções simples para uso
