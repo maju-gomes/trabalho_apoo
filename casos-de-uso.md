@@ -4,7 +4,7 @@
 
 ## Atores envolvidos  
 - **Doador:** Pessoa física ou jurídica.  
-- **Sistema:** Administrado por empresas coletoras que selecionam os itens.
+- **Coletadora:** Administrado por empresas coletoras que selecionam os itens.
 
 ---
 
