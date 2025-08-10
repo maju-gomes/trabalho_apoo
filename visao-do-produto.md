@@ -30,9 +30,9 @@ Pessoas que querem ser mais sustentáveis e ajudar pessoas carentes, além de em
 2. Registrar doação de produto(s)
 3. Visualizar pontos de entrega/retirada de produtos
 
-Para mais detalhes, acesse [casos-de-uso.md](casos-de-uso.md).
-
 ![diagrama_casos_de_uso](imagens/diagrama_casos_de_uso.png)
+
+Para mais detalhes, acesse [casos-de-uso.md](casos-de-uso.md).
 ---
 
 # Modelo Conceitual
