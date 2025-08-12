@@ -10,10 +10,23 @@ Evitar o descarte incorreto de produtos não biodegradáveis e reaproveitar seu 
 Pessoas que querem ser mais sustentáveis e ajudar pessoas carentes, além de empresas que já trabalham no ramo de reciclagem e distribuição.
 
 ## Principais Funcionalidades
-- **Doador:** cadastra o produto que deseja doar e visualiza os pontos de coleta.  
-- **Empresa coletadora:** visualiza os tipos de doações disponíveis nos pontos de coleta.  
-- **Empresa distribuidora:** verifica a demanda de pedidos e os produtos disponíveis para doação.
-- **Instituições/pessoas carentes:** solicitam produtos dos quais estão precisando.
+- RF001 - Cadastro de Usuários 
+Permitir o cadastro de doadores, empresas recicladoras e instituições. 
+- RF002 - Login de Usuários 
+Permitir o acesso ao sistema por meio de autenticação. 
+- RF003 - Cadastro de Itens para Doação 
+Permitir que doadores cadastrem itens, escolhendo a categoria (ex: roupas,  móveis, etc.). 
+- RF004 - Visualização de Pontos de Coleta 
+Exibir locais de coleta com endereço e horário. 
+- RF005 - Solicitação de Doações 
+Permitir que pessoas/instituições preencham formulário para receber doações. 
+- RF006 - Contador de Doações 
+Mostrar o número total de doações realizadas na plataforma. 
+- RF007 - Perfil de Empresas Recicladoras 
+Permitir que empresas publiquem seus serviços e mostrem seus trabalhos. 
+- RF008 - Notificações 
+Enviar alertas sobre status de doações, solicitações e atualizações. 
+
 
 ## Restrições e Premissas
 - O sistema será desenvolvido para acesso via web;  
