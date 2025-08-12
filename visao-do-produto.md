@@ -43,7 +43,7 @@ Enviar alertas sobre status de doações, solicitações e atualizações.
 2. Registrar doação de produto(s)
 3. Visualizar pontos de entrega/retirada de produtos
 
-![diagrama_casos_de_uso](imagens/diagrama_casos_de_uso.png)
+![alt text](<imagens/UseCase Diagram0.png>)
 
 Para mais detalhes, acesse [casos-de-uso.md](casos-de-uso.md).
 ---
